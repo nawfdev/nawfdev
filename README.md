@@ -12,19 +12,17 @@ Finance • POS • Home Automation • Trading Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MQL5](https://img.shields.io/badge/-MQL5-1a1a1a?style=flat-square)
 
+![Followers](https://img.shields.io/github/followers/nawfdev?style=flat-square&label=followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nawfdev&label=public%20repos&query=%24.public_repos&style=flat-square)
+
 </div>
 
 | Project | What it is |
 |---|---|
 | [nc-finance](https://github.com/nawfdev/nc-finance) | Finance/accounting app (TS) |
 | [kasirKyuzu](https://github.com/nawfdev/kasirKyuzu) | Cashier / POS system |
-| [vote](https://github.com/nawfdev/vote) | Voting platform |
-| [prtfl](https://github.com/nawfdev/prtfl) | Personal portfolio site |
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nawfdev&show_icons=true&hide_border=true&count_private=true&hide_title=true&height=150)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawfdev&layout=compact&hide_border=true&height=150)
 
 **[nawf.dev](https://nawf.dev)**
 
