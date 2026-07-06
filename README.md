@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1030,50:4c1d95,100:6d28d9&height=260&section=header&text=Nawfal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Product%20Engineering&descAlignY=52&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1030,50:4c1d95,100:6d28d9&height=260&section=header&text=Nawfal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20and%20Product%20Engineering&descAlignY=52&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end+to+end;TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+Next.js;Shipping+finance%2C+POS+%26+infra+tooling" />
 
