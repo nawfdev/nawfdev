@@ -1,19 +1,8 @@
 <div align="center">
 
-# Hi, I'm Nawfal 👋
+# Nawfal — Full-Stack Developer 🇮🇩
 
-Full-stack developer from Indonesia, building finance tools, POS systems, home automation panels, and trading utilities.
-
-</div>
-
-### 🔧 What I build
-
-- 💰 **Finance & POS** — cashier systems, savings trackers, accounting dashboards
-- 🏠 **Home automation** — residence/panel management tools
-- 📈 **Trading tools** — MQL5 Expert Advisors, MT account managers
-- 🤖 **Bots & automation** — Telegram bots, Cloudflare panels
-
-### 🛠️ Stack
+Finance • POS • Home Automation • Trading Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,15 +12,20 @@ Full-stack developer from Indonesia, building finance tools, POS systems, home a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MQL5](https://img.shields.io/badge/-MQL5-1a1a1a?style=flat-square)
 
-### 📊 GitHub stats
+</div>
+
+| Project | What it is |
+|---|---|
+| [nc-finance](https://github.com/nawfdev/nc-finance) | Finance/accounting app (TS) |
+| [kasirKyuzu](https://github.com/nawfdev/kasirKyuzu) | Cashier / POS system |
+| [vote](https://github.com/nawfdev/vote) | Voting platform |
+| [prtfl](https://github.com/nawfdev/prtfl) | Personal portfolio site |
 
 <div align="center">
 
-![nawfdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawfdev&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawfdev&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=nawfdev&show_icons=true&hide_border=true&count_private=true&hide_title=true&height=150)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawfdev&layout=compact&hide_border=true&height=150)
+
+**[nawf.dev](https://nawf.dev)**
 
 </div>
-
-### 🌐 Find me
-
-[![Website](https://img.shields.io/badge/-ngnawfal.web.id-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://ngnawfal.web.id)
