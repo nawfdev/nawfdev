@@ -158,9 +158,6 @@ An AI skill/spec for generating production-ready MetaTrader 5 Expert Advisors wi
 
 <div align="center">
 
-<img src="https://github-readme-stats-nu-plum.vercel.app/api?username=nawfdev&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1a1030&title_color=A78BFA&icon_color=A78BFA&text_color=e0def4" width="49%" />
-<img src="https://github-readme-stats-nu-plum.vercel.app/api/top-langs/?username=nawfdev&layout=compact&theme=dark&hide_border=true&bg_color=1a1030&title_color=A78BFA&text_color=e0def4" width="34%" />
-
 <img src="https://streak-stats.demolab.com/?user=nawfdev&theme=dark&hide_border=true&background=1a1030&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="70%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawfdev&theme=react-dark&hide_border=true&bg_color=1a1030&color=A78BFA&line=6D28D9&point=e0def4" width="90%" />
