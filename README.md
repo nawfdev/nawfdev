@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nawfal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=62&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nawfal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=62&descSize=20" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+finance+%26+POS+systems;Automating+homelabs+%26+home+servers;Writing+MQL5+trading+bots;Shipping+full-stack+web+apps" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-stack+web+development;Backend+%26+systems+engineering;Automation+%26+tooling;Always+shipping+something+new" alt="typing" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MQL5](https://img.shields.io/badge/-MQL5-1a1a1a?style=for-the-badge)
 
-### 💼 Finance & POS
+### 💻 Web Applications
 
 | Repo | Description |
 |---|---|
@@ -38,7 +38,7 @@
 | [open_kasir](https://github.com/nawfdev/open_kasir) | POS system — React+Vite frontend, Go backend |
 | [tabungan-bot](https://github.com/nawfdev/tabungan-bot) | WhatsApp savings & expense tracker bot + admin dashboard |
 
-### 🏠 Homelab & Booking Systems
+### ⚙️ Systems & Automation
 
 | Repo | Description |
 |---|---|
